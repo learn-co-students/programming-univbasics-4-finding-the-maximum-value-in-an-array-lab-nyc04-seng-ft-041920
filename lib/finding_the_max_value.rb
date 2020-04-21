@@ -10,3 +10,5 @@ def find_max_value(array)
   end
   max_value
 end
+
+# testing to see if github is still down 
